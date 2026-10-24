@@ -3,9 +3,27 @@ Open Source Ai Tools Directory
 
 **Browse:** Free & freemium tools • Open-source projects • Study & research • Coding • Business • Design • Data • Cybersecurity • Automation
 
-**Note:** This README is an open directory in progress. The category lists below are a curated starter set; the linked directories contain thousands of additional listings. Free plans, quotas, and commercial-use terms change—check each official website.
+**Note:** This README is an open directory in progress. this is a community-maintained starter list. Some tools offer free plans or trials rather than unlimited free use. The external directories linked below provide additional listings; this README does not claim to individually list every tool found on those sites.
 
+free AI tools · best AI tools for students · AI coding assistants · open-source AI tools · AI tools for developers · AI research tools · AI image generators · AI video tools · AI automation · machine learning tools · AI productivity apps
 ---
+## Jump to a Category
+
+- [Additional AI Tools](#additional-ai-tools)
+- [Art & Image Generator](#art--image-generator)
+- [Audio Editing](#audio-editing)
+- [Cybersecurity, AI Pentesting & Vulnerability Assessment](#cybersecurity-ai-pentesting--vulnerability-assessment)
+  - [Vulnerability Assessment & Security Scanning](#vulnerability-assessment--security-scanning)
+  - [Attack Surface Discovery & Reconnaissance](#attack-surface-discovery--reconnaissance)
+- [Avatars](#avatars)
+- [Chat Bot](#chat-bot)
+- [Chatbot Builders](#chatbot-builders)
+- [Code & Database Assistant](#code--database-assistant)
+- [Education & Learning](#education--learning)
+- [Organization & Automation](#organization--automation)
+- [Video](#video)
+- [Writing Assistant](#writing-assistant)
+
 
 ## Additional AI Tools
 
