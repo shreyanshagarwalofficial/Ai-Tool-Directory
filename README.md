@@ -1,5 +1,4 @@
-# 4000+ AI Tools — Free AI Tools Directory
-
+Open Source Ai Tools Directory
 > A community-maintained, category-wise directory of AI tools for students, developers, companies, researchers, creators, and professionals.
 
 **Browse:** Free & freemium tools • Open-source projects • Study & research • Coding • Business • Design • Data • Cybersecurity • Automation
@@ -409,8 +408,3 @@ Please add only real tools with working official links. Avoid duplicates, referr
 
 This list is for discovery and educational purposes. Inclusion is not an endorsement. Review privacy, security, licensing, data-retention, and commercial-use terms before using a tool, especially with company or personal data.
 
-## PDF guide
-
-- [Download the 1000+ Free & Freemium AI Tools PDF](./1000_plus_free_ai_tools_directory.pdf)
-
-**Curated entries in this README:** 313 tools. The 4,000+ figure refers to the broader discovery scope across the linked directories, not 4,000 individually enumerated entries in this file.
