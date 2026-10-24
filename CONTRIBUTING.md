@@ -7,8 +7,6 @@ By contributing, you help people discover useful AI tools and keep listings accu
 ## Ways to Contribute
 
 You can contribute by:
-
-- Adding a genuine AI tool that is not already listed.
 - Updating a tool's official website or category.
 - Reporting a broken, redirected, or incorrect link.
 - Correcting inaccurate descriptions or pricing information.
@@ -19,12 +17,11 @@ You can contribute by:
 
 Please check that:
 
-1. The tool is not already listed under another name or category.
-2. The link points to the tool's official website, official project page, or official source-code repository.
-3. The tool has a clear AI-related feature or purpose.
-4. The category accurately describes the tool.
-5. Any claims about free access, open-source status, or commercial use are supported by current official information.
-6. You have the right to contribute any text or other material you submit.
+1. The link points to the tool's official website, official project page, or official source-code repository.
+2. The tool has a clear AI-related feature or purpose.
+3. The category accurately describes the tool.
+4. Any claims about free access, open-source status, or commercial use are supported by current official information.
+5. You have the right to contribute any text or other material you submit.
 
 Free plans, usage limits, licenses, and commercial-use terms can change. When unsure, omit the claim rather than guessing.
 
@@ -59,7 +56,8 @@ When opening an issue, include:
 - What appears to be wrong.
 - The corrected official URL or a reliable source, if available.
 
-Please do not include passwords, API keys, private user data, or other sensitive information in an issue.
+Please do not include passwords, API keys, private user data, or other sensitive information in an issue. 
+add issue in issue.md
 
 ## Submit a Pull Request
 
