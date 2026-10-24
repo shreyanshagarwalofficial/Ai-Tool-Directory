@@ -3,8 +3,6 @@ Open Source Ai Tools Directory
 
 **Browse:** Free & freemium tools • Open-source projects • Study & research • Coding • Business • Design • Data • Cybersecurity • Automation
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
-
 **Note:** This README is an open directory in progress. The category lists below are a curated starter set; the linked directories contain thousands of additional listings. Free plans, quotas, and commercial-use terms change—check each official website.
 
 ---
