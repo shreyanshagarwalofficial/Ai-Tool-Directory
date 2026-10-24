@@ -602,6 +602,121 @@ Open Source Ai Tools Directory
 -   [Adobe Speech Enhancer](https://podcast.adobe.com/enhance)
 -   [Lingostar](http://www.lingostar.ai)
 
+## AI App & Website Builders
+
+### Prompt-to-App and Full-Stack Builders
+
+- [Lovable](https://lovable.dev/)
+- [Bolt.new](https://bolt.new/)
+- [Replit](https://replit.com/)
+- [v0 by Vercel](https://v0.dev/)
+- [Base44](https://base44.com/)
+- [Google AI Studio](https://aistudio.google.com/)
+- [Firebase Studio](https://firebase.studio/)
+- [Softgen](https://softgen.ai/)
+- [Databutton](https://databutton.com/)
+- [Anything](https://anything.com/)
+- [Create.xyz](https://create.xyz/)
+- [Blink](https://blink.new/)
+- [Rork](https://rork.com/)
+- [Dyad](https://www.dyad.sh/)
+- [Pythagora](https://www.pythagora.ai/)
+- [Tempo Labs](https://www.tempo.new/)
+- [Mocha](https://mocha.app/)
+- [Same.new](https://same.new/)
+- [Floot](https://floot.com/)
+- [Marblism](https://www.marblism.com/)
+
+### AI Website Builders
+
+- [Wix AI Website Builder](https://www.wix.com/)
+- [Framer AI](https://www.framer.com/)
+- [Webflow](https://webflow.com/)
+- [Hostinger AI Website Builder](https://www.hostinger.com/ai-website-builder)
+- [Durable](https://durable.co/)
+- [10Web](https://10web.io/)
+- [Dorik AI](https://dorik.com/ai)
+- [Jimdo](https://www.jimdo.com/)
+- [Squarespace](https://www.squarespace.com/)
+- [Duda](https://www.duda.co/)
+- [GoDaddy Website Builder](https://www.godaddy.com/websites/website-builder)
+- [B12](https://www.b12.io/)
+- [TeleportHQ](https://teleporthq.io/)
+- [Pineapple Builder](https://www.pineapplebuilder.com/)
+- [Mixo](https://mixo.io/)
+- [Leia](https://www.leia.co/)
+- [Kleap](https://kleap.co/)
+- [Unicorn Platform](https://unicornplatform.com/)
+- [Landingsite.ai](https://landingsite.ai/)
+- [Typedream](https://typedream.com/)
+
+### AI WordPress and CMS Builders
+
+- [Elementor AI](https://elementor.com/ai/)
+- [ZipWP](https://zipwp.com/)
+- [10Web AI Builder](https://10web.io/)
+- [Divi AI](https://www.elegantthemes.com/ai/)
+- [Brizy AI](https://www.brizy.io/)
+- [CodeWP](https://codewp.ai/)
+- [Wegic](https://wegic.ai/)
+- [Builder.io](https://www.builder.io/)
+- [Sitekick](https://www.sitekick.ai/)
+- [Ycode](https://www.ycode.com/)
+
+### AI Mobile App Builders
+
+- [FlutterFlow](https://flutterflow.io/)
+- [Adalo](https://www.adalo.com/)
+- [Thunkable](https://thunkable.com/)
+- [Glide](https://www.glideapps.com/)
+- [Bubble](https://bubble.io/)
+- [Bravo Studio](https://www.bravostudio.app/)
+- [Draftbit](https://draftbit.com/)
+- [Appy Pie](https://www.appypie.com/)
+- [Softr](https://www.softr.io/)
+- [SAP Build Apps](https://www.sap.com/products/technology-platform/build/apps.html)
+- [AppSheet](https://about.appsheet.com/home/)
+- [GoodBarber](https://www.goodbarber.com/)
+- [Natively](https://natively.dev/)
+- [FlutterFlow AI](https://flutterflow.io/ai)
+- [Glide AI](https://www.glideapps.com/ai)
+
+### AI UI, Frontend and Code Generators
+
+- [Anima](https://www.animaapp.com/)
+- [Locofy](https://www.locofy.ai/)
+- [Builder.io Visual Copilot](https://www.builder.io/)
+- [Quest AI](https://www.quest.ai/)
+- [Onlook](https://onlook.com/)
+- [Pico](https://picoapps.xyz/)
+- [Magic Patterns](https://www.magicpatterns.com/)
+- [Vercel](https://vercel.com/)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Cursor](https://cursor.com/)
+- [Windsurf](https://windsurf.com/)
+- [Claude Code](https://www.anthropic.com/claude-code)
+- [OpenAI Codex](https://openai.com/codex/)
+- [Zed](https://zed.dev/)
+- [Aider](https://aider.chat/)
+- [Continue](https://www.continue.dev/)
+- [Cline](https://cline.bot/)
+- [Roo Code](https://roocode.com/)
+- [PearAI](https://trypear.ai/)
+- [Void](https://voideditor.com/)
+
+### AI Ecommerce Store Builders
+
+- [Shopify](https://www.shopify.com/)
+- [Shopify Magic](https://www.shopify.com/magic)
+- [Wix Ecommerce](https://www.wix.com/ecommerce/website)
+- [10Web Ecommerce](https://10web.io/)
+- [Durable AI](https://durable.co/)
+- [Mixo](https://mixo.io/)
+- [Zyro](https://zyro.com/)
+- [Sellfy](https://sellfy.com/)
+- [Storebuild.ai](https://storebuild.ai/)
+- [Lemon Squeezy](https://www.lemonsqueezy.com/)
+
 ## Text
 
 -   [Bookclub](http://www.bookclub.ai)
