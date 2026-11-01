@@ -783,6 +783,7 @@ free AI tools · best AI tools for students · AI coding assistants · open-sour
 - [Kits AI](https://www.kits.ai/)
 - [Riffusion](https://www.riffusion.com/)
 - [Splash](https://www.splashmusic.com/)
+- [BeatMusic](https://beatmusic.ai/)
 
 ### AI Voice Generation and Voice Cloning
 
@@ -1847,6 +1848,7 @@ free AI tools · best AI tools for students · AI coding assistants · open-sour
 - [Rephrase.ai](https://www.rephrase.ai/)
 - [Vidnoz AI](https://www.vidnoz.com/)
 - [FlexClip AI](https://www.flexclip.com/)
+- [BeatMV](https://beatmv.ai/)
 
 ## Writing Assistant
 
