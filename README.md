@@ -1847,6 +1847,7 @@ free AI tools · best AI tools for students · AI coding assistants · open-sour
 - [Rephrase.ai](https://www.rephrase.ai/)
 - [Vidnoz AI](https://www.vidnoz.com/)
 - [FlexClip AI](https://www.flexclip.com/)
+- [PixelDojo](https://pixeldojo.ai)
 
 ## Writing Assistant
 
