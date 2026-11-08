@@ -394,6 +394,7 @@ free AI tools · best AI tools for students · AI coding assistants · open-sour
 
 -   [AI Docstrings](https://trelent.com)
 -   [Adrenaline](https://useadrenaline.com/)
+-   [agent-qa](https://vostride.com)
 -   [Ask Command](http://askcommand.com)
 -   [Channel](http://www.usechannel.com)
 -   [CodeAssist](http://plugins.jetbrains.com/plugin/20085-codeassist)
