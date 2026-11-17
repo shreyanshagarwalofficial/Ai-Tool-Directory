@@ -1502,6 +1502,7 @@ free AI tools · best AI tools for students · AI coding assistants · open-sour
 - [REimagineHome](https://www.reimaginehome.ai/)
 - [Interior AI](https://interiorai.com/)
 - [RoomGPT](https://www.roomgpt.io/)
+- [Room Meadow](https://roommeadow.com/ai-room-redesign)
 - [Remodel AI](https://remodelai.app/)
 - [Room AI](https://roomai.com/)
 - [Home Design AI](https://www.homedesignai.co/)
